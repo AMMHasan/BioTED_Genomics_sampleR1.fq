@@ -1,1 +1,1 @@
-# BioTED_Genomics_sample
+# BioTED_Genomics_sampleR1.fq
